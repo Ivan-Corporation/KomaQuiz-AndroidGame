@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="lvl1text0">Ноль</string>
+    <string name="lvl1text1">Один</string>
+    <string name="lvl1text2">Два</string>
+    <string name="lvl1text3">Три</string>
+    <string name="lvl1text4">Четыре</string>
+    <string name="lvl1text5">Пять</string>
+    <string name="lvl1text6">Шесть</string>
+    <string name="lvl1text7">Семь</string>
+    <string name="lvl1text8">Восемь</string>
+    <string name="lvl1text9">Девять</string>
+
+    <string name="lvl2text1">I</string>
+    <string name="lvl2text2">II</string>
+    <string name="lvl2text3">III</string>
+    <string name="lvl2text4">IV</string>
+    <string name="lvl2text5">V</string>
+    <string name="lvl2text6">VI</string>
+    <string name="lvl2text7">VII</string>
+    <string name="lvl2text8">VIII</string>
+    <string name="lvl2text9">IX</string>
+    <string name="lvl2text10">X</string>
+
+    <string name="lvl3text1">Аристотель</string>
+    <string name="lvl3text2">Христофор Колумб</string>
+    <string name="lvl3text3">Уильям Шекспир</string>
+    <string name="lvl3text4">Исаак Ньютон</string>
+    <string name="lvl3text5">Джордж Вашингтон</string>
+    <string name="lvl3text6">Наполеон Бонапарт</string>
+    <string name="lvl3text7">Чарльз Дарвин</string>
+    <string name="lvl3text8">Лев Толстой</string>
+    <string name="lvl3text9">Махатма Ганди</string>
+    <string name="lvl3text10">Владимир Ленин</string>
+    <string name="lvl3text11">Альберт Эйнштейн</string>
+    <string name="lvl3text12">Борис Ельцин</string>
+
+    <string name="lvl4text1">Саудовская Аравия</string>
+    <string name="lvl4text2">Конго</string>
+    <string name="lvl4text3">Алжир</string>
+    <string name="lvl4text4">Казахстан</string>
+    <string name="lvl4text5">Аргентина</string>
+    <string name="lvl4text6">Индия</string>
+    <string name="lvl4text7">Австралия</string>
+    <string name="lvl4text8">Бразилия</string>
+    <string name="lvl4text9">США</string>
+    <string name="lvl4text10">Китай</string>
+    <string name="lvl4text11">Канада</string>
+    <string name="lvl4text12">Россия</string>
+
+    <string name="lvl5text1">Плутон</string>
+    <string name="lvl5text2">Нептун</string>
+    <string name="lvl5text3">Уран</string>
+    <string name="lvl5text4">Сатурн</string>
+    <string name="lvl5text5">Юпитер</string>
+    <string name="lvl5text6">Марс</string>
+    <string name="lvl5text7">Земля</string>
+    <string name="lvl5text8">Венера</string>
+    <string name="lvl5text9">Меркурий</string>
+
+    <string name="lvl6text1">Статуя Христа</string>
+    <string name="lvl6text2">Тадж-Махал</string>
+    <string name="lvl6text3">Мачу-Пикчу</string>
+    <string name="lvl6text4">Чичен-Ица</string>
+    <string name="lvl6text5">Колизей</string>
+    <string name="lvl6text6">Великая китайская стена</string>
+    <string name="lvl6text7">Колосс Родосский</string>
+    <string name="lvl6text8">Александрийский маяк</string>
+    <string name="lvl6text9">Мавзолей в Галикарнасе</string>
+    <string name="lvl6text10">Статуя Зевса</string>
+    <string name="lvl6text11">Храм Артемиды</string>
+    <string name="lvl6text12">Висячие сады Семирамиды</string>
+    <string name="lvl6text13">Петра</string>
+    <string name="lvl6text14">Пирамиды Хеопса</string>
+
+    <string name="lvl7text1">Каратэ</string>
+    <string name="lvl7text2">Теннис</string>
+    <string name="lvl7text3">Лыжные гонки</string>
+    <string name="lvl7text4">Волейбол</string>
+    <string name="lvl7text5">Баскетбол</string>
+    <string name="lvl7text6">Хоккей</string>
+    <string name="lvl7text7">Американский футбол</string>
+    <string name="lvl7text8">Футбол</string>
+    <string name="lvl7text9">Легкая атлетика</string>
+    <string name="lvl7text10">Шахматы</string>
+
+    <string name="lvl8text1">Ангела Меркель</string>
+    <string name="lvl8text2">Цыси</string>
+    <string name="lvl8text3">Мария 2</string>
+    <string name="lvl8text4">Екатерина 2</string>
+    <string name="lvl8text5">Мария Терезия</string>
+    <string name="lvl8text6">Елизавета 1</string>
+    <string name="lvl8text7">Екатерина Медичи</string>
+    <string name="lvl8text8">Ядвига</string>
+    <string name="lvl8text9">Княгиня Ольга</string>
+    <string name="lvl8text10">Нефертити</string>
+
+    <string name="lvl9text1">Лондон</string>
+    <string name="lvl9text2">Стамбул</string>
+    <string name="lvl9text3">Москва</string>
+    <string name="lvl9text4">Каир</string>
+    <string name="lvl9text5">Мехико</string>
+    <string name="lvl9text6">Нью-Йорк</string>
+    <string name="lvl9text7">Шанхай</string>
+    <string name="lvl9text8">Дели</string>
+    <string name="lvl9text9">Джакарта</string>
+    <string name="lvl9text10">Токио</string>
+
+    <string name="lvl10text1">Австралия</string>
+    <string name="lvl10text2">Европа</string>
+    <string name="lvl10text3">Антарктида</string>
+    <string name="lvl10text4">Южная Америка</string>
+    <string name="lvl10text5">Северная Америка</string>
+    <string name="lvl10text6">Африка</string>
+    <string name="lvl10text7">Азия</string>
+
+    <string name="lvl11text1">Грета Тунберг</string>
+    <string name="lvl11text2">Франциск</string>
+    <string name="lvl11text3">Ты</string>
+    <string name="lvl11text4">Компьютер</string>
+    <string name="lvl11text5">Кеннеди</string>
+    <string name="lvl11text6">Американские солдаты</string>
+    <string name="lvl11text7">Черчилль</string>
+    <string name="lvl11text8">Сталин</string>
+    <string name="lvl11text9">Гитлер</string>
+    <string name="lvl11text10">Хайле Селассие I</string>
+
+
+    <string name="lvl12text1">Башни Петронас</string>
+    <string name="lvl12text2">Landmark 81</string>
+    <string name="lvl12text3">Лахта Центр</string>
+    <string name="lvl12text4">Международный коммерческий центр</string>
+    <string name="lvl12text5">Всемирный торговый центр 1</string>
+    <string name="lvl12text6">Башня Lotte World</string>
+    <string name="lvl12text7">Goldin Finance 117</string>
+    <string name="lvl12text8">Королевская часовая башня</string>
+    <string name="lvl12text9">Шанхайская башня</string>
+    <string name="lvl12text10">Бурдж-Халифа</string>
+
+
+    <string name="lvl13text1">Ртуть</string>
+    <string name="lvl13text2">Тантал</string>
+    <string name="lvl13text3">Уран</string>
+    <string name="lvl13text4">Вольфрам</string>
+    <string name="lvl13text5">Золото</string>
+    <string name="lvl13text6">Плутоний</string>
+    <string name="lvl13text7">Рений</string>
+    <string name="lvl13text8">Платина</string>
+    <string name="lvl13text9">Иридий</string>
+    <string name="lvl13text10">Осмий</string>
+
+
+    <string name="lvl14text1">Nissan Sunny</string>
+    <string name="lvl14text2">Ford Model T</string>
+    <string name="lvl14text3">Honda Civic</string>
+    <string name="lvl14text4">Opel Corsa</string>
+    <string name="lvl14text5">Ford Escort</string>
+    <string name="lvl14text6">Volkswagen Beetle</string>
+    <string name="lvl14text7">Fiat</string>
+    <string name="lvl14text8">Volkswagen Golf</string>
+    <string name="lvl14text9">Ford F-Series</string>
+    <string name="lvl14text10">Toyota Corolla</string>
+
+
+    <string name="lvl15text1">Анаконда</string>
+    <string name="lvl15text2">Страус</string>
+    <string name="lvl15text3">Крокодил</string>
+    <string name="lvl15text4">Белый медведь</string>
+    <string name="lvl15text5">Жираф</string>
+    <string name="lvl15text6">Бегемот</string>
+    <string name="lvl15text7">Морской лев</string>
+    <string name="lvl15text8">Носорог</string>
+    <string name="lvl15text9">Африканский слон</string>
+    <string name="lvl15text10">Синий кит</string>
+
+
+    <string name="lvl16text1">Холодное сердце</string>
+    <string name="lvl16text2">Форсаж 7</string>
+    <string name="lvl16text3">Мстители</string>
+    <string name="lvl16text4">Король Лев</string>
+    <string name="lvl16text5">Парк Юрского периода</string>
+    <string name="lvl16text6">Мстители: Война Бесконечности</string>
+    <string name="lvl16text7">Звёздные войны: Пробуждение силы</string>
+    <string name="lvl16text8">Титаник</string>
+    <string name="lvl16text9">Аватар</string>
+    <string name="lvl16text10">Мстители: Финал</string>
+
+
+    <string name="lvl17text1">Атомная бомба</string>
+    <string name="lvl17text2">Эволюция видов</string>
+    <string name="lvl17text3">Первый астеройд "Церер"</string>
+    <string name="lvl17text4">Бактерии</string>
+    <string name="lvl17text5">Всемирное тяготение</string>
+    <string name="lvl17text6">Алгебра</string>
+    <string name="lvl17text7">Рычаг Архимеда</string>
+    <string name="lvl17text8">Историческая наука</string>
+    <string name="lvl17text9">Квадратное уравнение</string>
+    <string name="lvl17text10">Письменность</string>
+
+
+    <string name="lvl18text1">Секта розового единорога</string>
+    <string name="lvl18text2">Синтоизм</string>
+    <string name="lvl18text3">Иудаизм</string>
+    <string name="lvl18text4">Сикхизм</string>
+    <string name="lvl18text5">Шэнизм</string>
+    <string name="lvl18text6">Буддизм</string>
+    <string name="lvl18text7">Агностики</string>
+    <string name="lvl18text8">Индуизм</string>
+    <string name="lvl18text9">Ислам</string>
+    <string name="lvl18text10">Христиане</string>
+
+
+    <string name="lvl19text1">Исландия</string>
+    <string name="lvl19text2">Куба</string>
+    <string name="lvl19text3">Хонсю</string>
+    <string name="lvl19text4">Британия</string>
+    <string name="lvl19text5">Суматра</string>
+    <string name="lvl19text6">Баффинова Земля</string>
+    <string name="lvl19text7">Мадагаскар</string>
+    <string name="lvl19text8">Калимантан</string>
+    <string name="lvl19text9">Гвинея</string>
+    <string name="lvl19text10">Гренландия</string>
+
+
+    <string name="lvl20text1">Круг</string>
+    <string name="lvl20text2">Круг</string>
+    <string name="lvl20text3">Круг</string>
+    <string name="lvl20text4">Круг</string>
+    <string name="lvl20text5">Круг</string>
+    <string name="lvl20text6">Круг</string>
+    <string name="lvl20text7">Круг</string>
+    <string name="lvl20text8">Круг</string>
+    <string name="lvl20text9">Круг</string>
+    <string name="lvl20text10">Круг</string>
+
+</resources>
